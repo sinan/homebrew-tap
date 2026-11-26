@@ -1,6 +1,6 @@
 cask "morpheus-app" do
-  version "3.24.3"
-  sha256 "6ac407a78910db5ce6ea41696e48223a80261a5261816ac26401947f81c4f310"
+  version "3.25.0"
+  sha256 "4f3fc5a79e7d3bbb29b298576f6111bb3d93a55a787bbd04fa2907f3b0dd6bc9"
 
   url "https://sales.notbad.engineering/d/morpheus/#{version}.dmg"
   name "Morpheus"
